@@ -3,6 +3,7 @@ A discord bot that users can interact with to receive info about the COVID-19 pa
 
 DISCLAIMER: the information shown by the bot may not be accurate. A grain of salt may be required.
 
+
 The bot features 5 unique commands: !help, !maps, !report, !mask, and !vaccines.
 
   !help: this is the help section, it shows all existing commands and brief descriptions about them.
@@ -15,4 +16,5 @@ The bot features 5 unique commands: !help, !maps, !report, !mask, and !vaccines.
   
   !vaccines: link to Wikipedia's COVID-19 vaccine page, containing vaccines approved in some countries/organizations, vaccine candidates, and countries/organizations that have                  approved 1 or more vaccines.
 
-The bot can be only used while running/online as of now.
+
+The bot can be ONLY used while running/online as of now.
