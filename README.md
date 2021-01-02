@@ -1,6 +1,8 @@
 # coronabot
 A discord bot that users can interact with to receive info about the COVID-19 pandemic.
 
+This bot cannot be used without downloading the discord.py from https://github.com/Rapptz/discord.py
+
 DISCLAIMER: the information shown by the bot may not be accurate. A grain of salt may be required.
 
 
