@@ -3,7 +3,7 @@ A discord bot that users can interact with to receive info about the COVID-19 pa
 
 This bot cannot be used without downloading the discord.py from https://github.com/Rapptz/discord.py
 
-Credits to backtrackbaba's https://github.com/backtrackbaba/covid-api for the data used for the !report command.
+Credits to backtrackbaba's https://github.com/backtrackbaba/covid-api for the data used for the !report command. (IDK HOW MIT LICENSE WORKS HALP)
 
 DISCLAIMER: the information shown by the bot may not be accurate. A grain of salt may be required.
 
