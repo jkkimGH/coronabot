@@ -149,4 +149,4 @@ class MyClient(discord.Client):
 # Main function
 # Last updated 12-23-20
 client = MyClient()
-client.run('NzkxMTQ1MTUwMDE2NTIwMjMz.X-K5Vg.i4_oA29-GeEwd64vOWyxE4PRuqk')
+client.run(#token)
